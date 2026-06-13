@@ -37,7 +37,66 @@ and my Father is the **vinedresser**.
   + must stay **connected** to him
 + and there is **accountability**
   + for our **action** + inaction
-+ analogy of **vine** + branches:
+
+---
+<!-- .slide: <%= bg("unsplash-mHLHSn4gtno-vine.jpg") %> id="outline" class="outline" -->
+## I AM: the True Vine (Jn15)
+1. Abide in the **Vine** [(v4-6)](# "ref")
+1. Abide in Bearing **Fruit** [(v7-8)](# "ref")
+1. Abide in His **Love** [(v9-10)](# "ref")
+
+>>>
++ Connected
++ Growing
++ Learning to Love
+
+---
+**Abide** in me, and I in you. 
+
+As the **branch** cannot bear fruit by itself, <br/>
+unless it abides in the **vine**, <br/>
+neither can you, unless you abide in **me**. 
+
+[John 15:4 (ESV)](# "ref")
+
+>>>
++ abide: **remain**, lasting, staying power
++ constant, ongoing supply of **life**
+
+---
+I am the **vine**; you are the **branches**. 
+
+Whoever abides in me and I in him, <br/>
+he it is that bears much **fruit**, 
+
+for apart from me you can do **nothing**. 
+
+[John 15:5 (ESV)](# "ref")
+
+>>>
++ pos: **abide** + bear **fruit**
+  + not on **own** power but
+  + supplied by **life** of Christ
++ neg:
+
+---
+If anyone does not abide in me, <br/>
+he is **thrown away** like a branch and **withers**; 
+
+and the branches are gathered, <br/>
+thrown into the **fire**, and burned. 
+
+[John 15:6 (ESV)](# "ref")
+
+>>>
++ abiding + bearing fruit are not **optional**
+  + **2-tiers** of Chr, passive + active
++ **thrown**: cast out, no longer part of vine
+  + **withers**: init semblance of life
+  + but disconnected, dies out
++ **fire**: ultimate destiny is destruction
++ Can one **lose** one's salvation?
++ v2 does neg first, then pos:
 
 ---
 Every branch in me that does **not** bear fruit <br/>
@@ -52,57 +111,12 @@ the **word** that I have spoken to you.
 [John 15:2-3 (ESV)](# "ref")
 
 >>>
-+ take away: **cut** entirely from the vine
-  + can one **lose** one's salvation?
 + prune: clean
   + trim away parts **unfruitful**
   + **steer** in direction of growth
 + **Word** cleans us:
   + convicts of **sin**
   + guides into **truth**
-
----
-<!-- .slide: <%= bg("unsplash-mHLHSn4gtno-vine.jpg") %> id="outline" class="outline" -->
-## I AM: the True Vine (Jn15)
-1. Abide in the **Vine** [(v4-6)](# "ref")
-1. Abide in Bearing **Fruit** [(v7-8)](# "ref")
-1. Abide in His **Love** [(v9-10)](# "ref")
-
->>>
-+ Connected
-+ Growing
-+ 
-
----
-**Abide** in me, and I in you. 
-
-As the **branch** cannot bear fruit by itself, <br/>
-unless it abides in the **vine**, <br/>
-neither can you, unless you abide in **me**. 
-
-[John 15:4 (ESV)](# "ref")
-
->>>
-+ abide: **remain**, lasting, staying power
-
----
-I am the **vine**; you are the **branches**. 
-
-Whoever abides in me and I in him, <br/>
-he it is that bears much **fruit**, 
-
-for apart from me you can do **nothing**. 
-
-[John 15:5 (ESV)](# "ref")
-
----
-If anyone does not abide in me, <br/>
-he is **thrown away** like a branch and **withers**; 
-
-and the branches are gathered, <br/>
-thrown into the **fire**, and burned. 
-
-[John 15:6 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -134,6 +148,7 @@ and so prove to be my disciples.
 
 >>>
 + abide > ask > fruit > glory
++ ask for **anything**?
 + later in same ch, v16:
 
 ---

@@ -21,12 +21,23 @@
 [pxhere](https://pxhere.com/en/photo/1094065 "caption")
 
 >>>
++ ch14-17 w/**disciples**, last supper
++ prep for **after** Chr returns to Father
+  + i.e., us in **current** age!
 
 ---
 I am the **true vine**, <br/>
 and my Father is the **vinedresser**. 
 
 [John 15:1 (ESV)](# "ref")
+
+>>>
++ v1-3 **intro**
++ though Christ has **departed**
+  + must stay **connected** to him
++ and there is **accountability**
+  + for our **action** + inaction
++ analogy of **vine** + branches:
 
 ---
 Every branch in me that does **not** bear fruit <br/>
@@ -37,17 +48,30 @@ he **prunes**, that it may bear **more** fruit.
 
 Already you are **clean** because of <br/>
 the **word** that I have spoken to you. 
-[John 15:1-2 (ESV)](# "ref")
+
+[John 15:2-3 (ESV)](# "ref")
 
 >>>
++ take away: **cut** entirely from the vine
+  + can one **lose** one's salvation?
 + prune: clean
+  + trim away parts **unfruitful**
+  + **steer** in direction of growth
++ **Word** cleans us:
+  + convicts of **sin**
+  + guides into **truth**
 
 ---
 <!-- .slide: <%= bg("unsplash-mHLHSn4gtno-vine.jpg") %> id="outline" class="outline" -->
 ## I AM: the True Vine (Jn15)
-1. Abide in the Vine [(v4-6)](# "ref")
-1. Abide in Bearing Fruit [(v7-8)](# "ref")
-1. Abide in His Love [(v9-10)](# "ref")
+1. Abide in the **Vine** [(v4-6)](# "ref")
+1. Abide in Bearing **Fruit** [(v7-8)](# "ref")
+1. Abide in His **Love** [(v9-10)](# "ref")
+
+>>>
++ Connected
++ Growing
++ 
 
 ---
 **Abide** in me, and I in you. 
@@ -56,7 +80,10 @@ As the **branch** cannot bear fruit by itself, <br/>
 unless it abides in the **vine**, <br/>
 neither can you, unless you abide in **me**. 
 
-[John 15:3-4 (ESV)](# "ref")
+[John 15:4 (ESV)](# "ref")
+
+>>>
++ abide: **remain**, lasting, staying power
 
 ---
 I am the **vine**; you are the **branches**. 
@@ -106,19 +133,23 @@ and so prove to be my disciples.
 [John 15:7-8 (ESV)](# "ref")
 
 >>>
-+ ask || fruit
++ abide > ask > fruit > glory
++ later in same ch, v16:
 
 ---
 You did not choose me, but I **chose** you <br/>
 and **appointed** you that you should go and <br/>
 bear **fruit** and that your fruit should **abide**, 
 
-so that whatever you **ask** the Father in my name, <br/>
-he may give it to you.
+so that whatever you **ask** the Father <br/>
+in my name, he may **give** it to you.
 
 [John 15:16 (ESV)](# "ref")
 
 >>>
++ "chose": **election** (church: called-out)
++ "appointed": **set**, placed, role, ID
++ fruit that **abides**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -146,6 +177,7 @@ and abide in his love.
 
 >>>
 + abide in Chr, abide in love
+  + Chr set **example** w/Father
 + love || cmds
 + love w/o obedience is fickle **emotion**
   + lose sight of God's **holiness**
@@ -164,7 +196,7 @@ that someone **lay down** his life for his friends.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is **love**?
+# What does it <br/> mean to **love**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
